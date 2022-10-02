@@ -11,7 +11,7 @@
 
 Button : If you are deploying normally
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/the-great-M-D/Kaoi/blob/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/omiyamax/whatsappbot.git)
 
 Button : If you are deploying from a fork
 
